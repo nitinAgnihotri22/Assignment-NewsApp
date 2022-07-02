@@ -1,1 +1,1 @@
-# Assignment-NewsApp![simulator_screenshot_8495BC04-0BA2-4A39-9716-6BEDD698FAAF](https://user-images.githubusercontent.com/9985638/177016435-879e99ef-1f41-4682-b57e-fcd09770571c.png)
+![Simulator Screen Shot - iPhone13ProMax - 2022-07-03 at 02 50 12](https://user-images.githubusercontent.com/9985638/177016464-8c663f03-7517-46c9-95fe-db9ed0e05ef7.png)
